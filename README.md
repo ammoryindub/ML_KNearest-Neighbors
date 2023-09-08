@@ -15,10 +15,10 @@ file is associated with 02-ML-K Nearest-Neighbors
 
 
 ### 01-ML-K Nearest-Neighbors
-- Import libraries / dataset 
+- Import libraries/dataset 
 
 - Data Cleaning
 
-- Build Modeling/Training
+- Data Scaling
 
 - Data Testing
