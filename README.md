@@ -25,4 +25,6 @@ file is associated with 02-ML-K Nearest-Neighbors
 
 - KNN model
 
-- Fitting the Model
+- Fitting the model
+
+- Evaluate the model 
