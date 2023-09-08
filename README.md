@@ -3,7 +3,7 @@ Machine Learning -KNN(K Nearest Neighbors)
 
 
  
-**'USA_Housing.csv', 'scikit-learn.png'**
+**'Classified Data.csv'**
 files are associated with 01-ML-K Nearest-Neighbors
 
 
