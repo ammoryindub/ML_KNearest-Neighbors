@@ -7,7 +7,7 @@ Machine Learning -KNN(K Nearest Neighbors)
 files are associated with 01-ML-K Nearest-Neighbors
 
 
-**'Ecommerce Customers.csv'**
+**'KNN_Project_Data.csv'**
 file is associated with 02-ML-Linear-Regression.
 
 
