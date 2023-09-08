@@ -23,4 +23,4 @@ file is associated with 02-ML-K Nearest-Neighbors
 
 - Train, Test, Split
 
-- 
+- KNN model
