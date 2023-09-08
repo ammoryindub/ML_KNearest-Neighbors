@@ -21,4 +21,6 @@ file is associated with 02-ML-K Nearest-Neighbors
 
 - Data Scaling
 
-- Data Testing
+- Train, Test, Split
+
+- 
