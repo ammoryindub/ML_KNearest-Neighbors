@@ -31,4 +31,6 @@ file is associated with 02-ML-K Nearest-Neighbors
 
 
 ### 02-ML-K Nearest-Neighbors
-- Import libraries/dataset 
+- Import libraries/dataset
+
+- Retrain with new K Value 
