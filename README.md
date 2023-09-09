@@ -33,6 +33,8 @@ file is associated with 02-ML-K Nearest-Neighbors
 ### 02-ML-K Nearest-Neighbors
 - Import libraries/dataset
 
+- Train Test Split
+
 - Using KNN
 
 - Predictions and Evaluations
